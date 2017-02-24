@@ -1,0 +1,27 @@
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe.config
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.pdb
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.MiniCubeSolver.resources
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.Properties.Resources.resources
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csproj.GenerateResource.Cache
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.exe
+C:\Users\Keith Cutajar\Desktop\2HND4 2nd semester\Ranier Bonnici\CubeSolvingAssignment\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.pdb
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe.config
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.exe
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.pdb
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.pdb
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.MiniCubeSolver.resources
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.Properties.Resources.resources
+C:\Users\Keith Cutajar\Desktop\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csproj.GenerateResource.Cache
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe.config
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.exe
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.pdb
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csprojResolveAssemblyReference.cache
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.MiniCubeSolver.resources
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.Properties.Resources.resources
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\obj\Debug\CubeSolvingAssignment.csproj.GenerateResource.Cache
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.exe
+J:\2HND4\CubeSolvingAssignment - Distinction\CubeSolvingAssignment\bin\Debug\CubeSolvingAssignment.pdb
